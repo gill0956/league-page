@@ -7,12 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Behind Bars and Beyond Touchdowns</p>
+  <p>At FMCC, a new excitement was brewing: Fantasy Football for the officers. Commissioner Bains, more famed for his splendid beard than his rank, was intrigued. "If we're doing this," he smirked, "my beard gets its own team."</p>
+  <p>As the roster formed, a peculiar entry appeared. Ryan, brother to Instructor Jburg and better known as 'Big Cat' for his imposing size and surprisingly nimble moves, was a surprising addition to the lineup. Though a novice to the game, Big Cat's knack for fantasy league was undeniable and caught many off guard.</p>
+  <p>The season unfurled with strategies, underdogs, and inmates becoming armchair experts. Officer Tatlay, with his impeccable instincts, clinched the first-year crown. As for Bains? His beard, an FMCC sensation, became the topic of many a mess hall debate, with murmurs of its potential mystical powers.</p>
+  <p>Then there was King, whose strong performance was overshadowed by a universal truth: no one remembers second place.</p>
+  <p>The Fantasy Football season at FMCC wasn't just about the championship. It was a testament to intense rivalries, unwavering commitment, late-night alcohol-fueled debates, and a series of poor life decisions that became the stuff of legend.</p>
 `;
 
 /*   STEP 3   */
